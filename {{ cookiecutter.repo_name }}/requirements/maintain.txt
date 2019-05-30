@@ -1,0 +1,9 @@
+# software project and package maintenance related requirements
+
+
+#safety		# list outdated packages with security issues
+deplint		# Tracking not used packages
+pipdeptree  # for identification of installed top-level packages
+
+#pip-tools  # provide: pip-compile, pip-sync - not used in practice
+#pipreqs

@@ -1,0 +1,8 @@
+# code quality related requirements
+
+flake8-bugbear
+flake8-commas
+flake8-docstrings
+flake8-print
+flake8-pytest
+flake8-pytest-mark

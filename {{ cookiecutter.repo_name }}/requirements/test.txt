@@ -1,0 +1,7 @@
+# testing related requirements
+
+coverage
+great_expectations	# for data validatoin/testing
+pytest
+pytest-cov
+pytest-sugar

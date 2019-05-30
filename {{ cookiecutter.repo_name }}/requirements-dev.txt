@@ -1,0 +1,8 @@
+# base requirements - sufficient for full workflow
+-r ./requirements.txt
+
+# helper tools for developer
+-r requirements/test.txt
+-r requirements/maintain.txt
+-r requirements/code_quality.txt
+-r requirements/jupyter.txt
